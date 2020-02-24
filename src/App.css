@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.cardBody{
+  width: 50%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.error {
+  border: red solid 1px;
+  box-shadow: none;
+}
+.error:focus {
+  border: red solid 1px;
+  box-shadow: none;
+}
+.error:active {
+  border: red solid 1px;
+  box-shadow: none;
+}
+
+
